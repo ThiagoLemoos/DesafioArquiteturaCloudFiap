@@ -1,5 +1,5 @@
 # Desafio Arquitetura Cloud
-Imagine que você é o(a) arquiteto(a) de Nuvem / Engenheiro(a) DevOps em uma startup inovadora chamada "InovaSoluções Tech". A empresa está prestes a lançar uma nova plataforma global de e-commerce que precisa ser altamente disponíevel, escalável para lidar com picos sazonais (como Black Friday), segura para proteger dados de usuários e transações de pagamento, e otimizada em custos para garantir a sustentabilidade financeira da startup. Além disso a plataforma deve oferecer baixa latência para usuários em diferentes continentes.
+Imagine que você é o(a) arquiteto(a) de Nuvem / Engenheiro(a) DevOps em uma startup inovadora chamada "InovaSoluções Tech". A empresa está prestes a lançar uma nova plataforma global de e-commerce que precisa ser altamente disponível, escalável para lidar com picos sazonais (como Black Friday), segura para proteger dados de usuários e transações de pagamento, e otimizada em custos para garantir a sustentabilidade financeira da startup. Além disso a plataforma deve oferecer baixa latência para usuários em diferentes continentes.
 
 Seu desafio é propor uma arquitetura de nuvem para a plataforma da "InovaSoluções Tech", justificando suas escolhas com base nos conceitos aprendidos ao longo das aulas. Sua proposta deve abordar os seguintes pontos:
 
